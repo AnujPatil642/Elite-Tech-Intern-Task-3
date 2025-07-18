@@ -33,6 +33,7 @@ pentest-toolkit/
 ├── assets/
 
 │ └── wordlist.txt # Wordlist for brute force attacks
+
 └── README.md # Project documentation
 
 ---
@@ -56,10 +57,16 @@ python main.py
 
 ## Sample Wordlist (assets/wordlist.txt)
 admin
+
 123456
+
 letmein
+
 qwerty
+
 password
+
 admin123
+
 testpass
 
